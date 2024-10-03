@@ -1,0 +1,25 @@
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.panel {
+    margin-bottom: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.panel-heading {
+    background-color: #f8f9fa;
+    padding: 0.5rem;
+    border-bottom: 1px solid #ddd;
+}
+
+.panel-body {
+    padding: 1rem;
+}
+
+#bar, #gauge, #bubble {
+    margin-bottom: 2rem;
+}
